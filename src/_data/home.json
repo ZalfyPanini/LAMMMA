@@ -1,6 +1,6 @@
 {
-  "title": "Fernfolio",
-  "image": "src/assets/img/fern-in-hand.jpeg",
-  "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "title": "LAMMA OCC",
+  "image": "/src/assets/img/hero.webp",
+  "image_alt": "Hang loose LOCC.",
+  "body": "Lamma's best and only outrigger paddling club."
 }
